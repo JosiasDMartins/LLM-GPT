@@ -1,3 +1,9 @@
 
 .ipynb_checkpoints/LLM_GPT-checkpoint.ipynb
 jdm_model.pkl
+.ipynb_checkpoints/chat_bot-checkpoint.py
+.ipynb_checkpoints/chatbot_OLD-checkpoint.py
+.ipynb_checkpoints/gpt_model_kit-checkpoint.py
+.ipynb_checkpoints/gpt_model_prototype-checkpoint.ipynb
+__pycache__/gpt_model_kit.cpython-312.pyc
+__pycache__/gptTraining.cpython-312.pyc
